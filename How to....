@@ -1,5 +1,0 @@
-1. Start by executing the server program.
-2. Then, run the client program. Choose a nickname for yourself and press enter.
-3. A TCP connection will be established between the server and the client.
-4. Repeat the second step to add more clients to the chat.
-5. Once you begin chatting, you will notice a 'history.txt' file created where your chats will be stored along with the timestamp.
